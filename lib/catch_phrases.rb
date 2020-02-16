@@ -13,7 +13,8 @@ def link
   puts phrase_two
 end
 
-def any_phrase
+def any_phrase(phrase)
+  
   
 
 
